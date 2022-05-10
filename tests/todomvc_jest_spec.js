@@ -1,12 +1,9 @@
-/**
- * @jest-environment puppeteer
- */
 const { setDefaultOptions } = require('expect-puppeteer')
 setDefaultOptions({ timeout: 1000 })
 
 const httpServer = require('http-server');
 
-const PORT = process.env.PORT_NUMBER || 8000;
+const PORT = process.env.PORT_NUMBER || 8008;
 const TEST_URL = `http://localhost:${PORT}`;
 
 describe('JestTodoMVC', function () {

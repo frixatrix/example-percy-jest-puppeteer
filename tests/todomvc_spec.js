@@ -1,6 +1,3 @@
-/**
- * @jest-environment puppeteer
- */
 const { setDefaultOptions } = require('expect-puppeteer')
 setDefaultOptions({ timeout: 1000 })
 
