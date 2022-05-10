@@ -1,4 +1,4 @@
-# example-percy-puppeteer
+# example-percy-jest-puppeteer
 
 See original here: https://github.com/percy/example-percy-puppeteer
 
