@@ -34,7 +34,7 @@
     "http-server": "14.1.0",
     "jest": "28.1.0",
     "jest-puppeteer": "6.1.0",
-    "puppeteer": "14.0.0",
+    "puppeteer": "14.1.2",
     "jest-environment-puppeteer": "6.0.3"
   }
 }
